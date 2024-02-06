@@ -23,4 +23,4 @@ if __name__ == "__main__":
 ```
 
 # Export data to excel:
-<img src="./Images\Output.PNG" width="600" height="150">
+<img src="./Images\Output.PNG">
